@@ -38,6 +38,8 @@ export default function BasicModal() {
             Choose a card to play against your opponent's card.
             <br></br><br></br>
             Beat your opponent's card in 2 out of 3 rounds to win the game.
+            <br></br><br></br>
+            Fire beats Grass, Grass beats Water, and Water beats Fire.
           </Typography>
         
         </Box>
